@@ -1,5 +1,4 @@
 class upload{
-
   constructor(){
     this.data=[];
     this.list=[];
@@ -272,7 +271,6 @@ class upload{
      }
     }
     //创建预览容器
-
     createPview(obj){
         if(obj){
             this.p=obj;
